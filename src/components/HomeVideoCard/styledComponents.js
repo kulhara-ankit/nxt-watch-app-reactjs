@@ -15,6 +15,7 @@ export const ListItem = styled.li`
 
 export const ThumbNailImage = styled.img`
   width: 100%;
+  border-radius: 10px;
 `
 export const VideoDetails = styled.div`
   display: flex;
